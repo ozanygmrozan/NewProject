@@ -23,3 +23,5 @@ $ git config --global user.email johndoe@example.com
 * git clone https://github.com/ozanygmrozan/NewProject.git
 
 * versiyon değiştirildi: "git pull origin master"
+
+* force komutu: ne olursa olsun ez.
