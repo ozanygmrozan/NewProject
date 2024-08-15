@@ -26,4 +26,4 @@ $ git config --global user.email johndoe@example.com
 
 * force komutu: ne olursa olsun ez.
 
-asdasdasdasd
+asdasdasdasdasds
