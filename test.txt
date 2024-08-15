@@ -18,3 +18,6 @@ $ git config --global user.email johndoe@example.com
 1. aşama: "git add ." | "git add test.txt"  => dosyaları paket eder.
 2. aşama: "git commit -m "ilk yukleme" => pakete mesaj eklenir.
 3. aşama: "git push origin master" | "git push origin front"
+
+
+* git clone https://github.com/ozanygmrozan/NewProject.git
